@@ -1,0 +1,9 @@
+;7.  Write an assembly language program to simulate the machine
+;    for following register reference instructions and determine 
+;    the contents of AC, E, PC, AR, and IR registers in decimal 
+;    after the execution: 
+;i. CLE 
+;ii. CLA 
+;iii.CMA 
+;iv. CME 
+CLA
